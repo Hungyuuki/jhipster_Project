@@ -1,0 +1,26 @@
+{
+  "jHipsterProjectApp": {
+    "money": {
+      "home": {
+        "title": "Monies",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Money",
+        "createOrEditLabel": "Create or edit a Money",
+        "notFound": "No Monies found"
+      },
+      "created": "A new Money is created with identifier {{ param }}",
+      "updated": "A Money is updated with identifier {{ param }}",
+      "deleted": "A Money is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Money {{ id }}?"
+      },
+      "detail": {
+        "title": "Money"
+      },
+      "id": "ID",
+      "name": "Name",
+      "roll": "Roll",
+      "income": "Income"
+    }
+  }
+}

@@ -100,6 +100,7 @@
   },
   "defaultProject": "j-hipster-project",
   "cli": {
+    "analytics": "ae521e0c-7017-4e3b-a222-17eecd3503ce",
     "cache": {
       "enabled": true,
       "path": "./target/angular/",
